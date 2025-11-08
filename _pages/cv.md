@@ -11,35 +11,49 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Biology, University of Luxembourg, 2025
+* M.S. in Bioinformatics and Structural Biology, University of Strasbourg, 2019
+* B.S. in Molecular and Cellular Biology, University of Strasbourg, 2017
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2025-Present: Post Doc
+  * LCSB - University of Luxembourg
+  * Missions: GWAS and nutrition modeling
+  * Supervisor: Prof. Dr. Reinhard Schneider, Dr. Venkata Satagopam
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2021-2025: PhD
+  * LCSB - University of Luxembourg
+  * i2TRON Doctoral training unit: WP1.5
+    * Systems biology: Mechanisms of peanut allergy development in early childhood
+    * scRNA seq – CCC: WNT5A and fibroblast roles in colorectal cancer
+    * Multi‑omics: Molecular mechanisms linking Dietary fibers to gut inflammation
+  * Supervisor: Prof. Dr. Reinhard Schneider, Dr. Venkata Satagopam
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2019: Insternship
+  * CIRAD - QualiSud
+  * Missions: Metabarcoding approaches on test microbial communities; 16S and ITS analysis on apples and mangoes
+  * Supervisor: Dr. F. Constantias
+
+* 2018: Insternship
+  * ICUBE – CST
+  * Missions: Updating sequence analyses and improving structural modeling of the B subunit of meiotic topoisomerase VI
+  * Supervisor: Dr. F. Constantias
+
+* 2018: Insternship
+  * ICUBE – CST
+  * Missions: Constructing and classifying phylogenetic profiles of protein networks at domain and interaction site level
+  * Supervisor: Dr. J. Thompson
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Languages:
+  * French: Native speaker
+  * English: B2 – Fluent in daily communication, academic writing skills
+* Programming: R (tidyverse, ggplot2, Seurat), Python, Bash/Shell, SLURM, Git/Gitlab/Github, LATEX
+* Softwares: Microsoft Office, Inkscape
+* Personal interest: FDM 3D printing, hiking with the dog, Movies, Computer/Board games
+* French driver license B (owning a car)
 
 Publications
 ======
@@ -61,4 +75,9 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Board member, Treasurer, Secretary -- ISCB RSG Luxembourg, 2022-2025
+* Board member -- France Junior Bioinformaticians Associations (ISCB RSG France -- JeBiF), 2022-2025
+
+Affiliations
+======
+* Member, International Society for Computational Biology (ISCB), 2022-Present
