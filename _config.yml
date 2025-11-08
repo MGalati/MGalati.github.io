@@ -11,8 +11,8 @@ locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
 title                    : "Home"
 title_separator          : "-"
-name                     : &name "Mathias Galati"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+name                     : &name "Dr. Mathias Galati"
+description              : &description "Data scientist specialized in Life Sciences: Bioinformatician and translational researcher"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://mathiasgalati.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Mathias Galati"
   pronouns         : # example: "she/her"  
-  bio              : "Data scientist specialized in Life Sciences: Bioinformatician"
+  bio              : "PhD in Biology at the University of Luxembourg (LCSB). Interested in systems biology, multi-omics, and translational medicine."
   location         : "Metz, France"
   employer         : "LCSB - University of Luxembourg"
   uri              : # URL
